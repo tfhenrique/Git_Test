@@ -1,0 +1,6 @@
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\GIT_Test\obj\Debug\GIT_Test.csproj.AssemblyReference.cache
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\GIT_Test\obj\Debug\GIT_Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\GIT_Test\obj\Debug\GIT_Test.Form1.resources
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\GIT_Test\obj\Debug\GIT_Test.Properties.Resources.resources
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\GIT_Test\obj\Debug\GIT_Test.csproj.GenerateResource.cache
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\GIT_Test\obj\Debug\GIT_Test.csproj.CoreCompileInputs.cache
