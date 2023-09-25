@@ -21,6 +21,8 @@ namespace GIT_Test
         {
             Random RandomNumber = new Random();
             txt1.Text = RandomNumber.Next(1, 11).ToString();
+
+            listBox1.Items.Add(txt1.Text);
         }
     }
 }

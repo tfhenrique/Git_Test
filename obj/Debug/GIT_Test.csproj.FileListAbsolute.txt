@@ -4,3 +4,8 @@ C:\Users\tiago\OneDrive\Ambiente de Trabalho\GIT_Test\obj\Debug\GIT_Test.Form1.r
 C:\Users\tiago\OneDrive\Ambiente de Trabalho\GIT_Test\obj\Debug\GIT_Test.Properties.Resources.resources
 C:\Users\tiago\OneDrive\Ambiente de Trabalho\GIT_Test\obj\Debug\GIT_Test.csproj.GenerateResource.cache
 C:\Users\tiago\OneDrive\Ambiente de Trabalho\GIT_Test\obj\Debug\GIT_Test.csproj.CoreCompileInputs.cache
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\GIT_Test\bin\Debug\GIT_Test.exe.config
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\GIT_Test\bin\Debug\GIT_Test.exe
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\GIT_Test\bin\Debug\GIT_Test.pdb
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\GIT_Test\obj\Debug\GIT_Test.exe
+C:\Users\tiago\OneDrive\Ambiente de Trabalho\GIT_Test\obj\Debug\GIT_Test.pdb
